@@ -1,6 +1,5 @@
 """
 Juego del 3 en Raya
-IES Zaidín-Vergeles
 Autor: Hector Tudela Morales
 """
 
@@ -293,5 +292,6 @@ def main():
             print("   ¡Gracias por jugar! ¡Hasta pronto!")
             print("="*40 + "\n")
             break
+
 
 main()
